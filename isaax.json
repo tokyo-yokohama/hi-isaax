@@ -1,0 +1,12 @@
+{
+  "name": "php-app",
+  "version": "0.1.0",
+  "description": "php - raspberry-pi",
+  "main": "app.php",
+  "author": "",
+  "language":"php",
+  "license": "",
+  "scripts": {
+     "start": "php app.php"
+  }
+}
